@@ -1,7 +1,6 @@
-*{
+* {
   margin: 0;
   padding: 0;
-
   box-sizing: border-box;
 }
 :root{
@@ -19,7 +18,7 @@
 --gray-500: #C0C4CE;
 --gray-600: #E2E4E9;
 
-/* var-fonts
+/* var-fonts */
 --font-family: "Asap", sans-serif;
 --title-lg: 700 56px/120% var(--font-family);
 --litle-md: 700 24px/120% var(--font-family);
@@ -28,16 +27,16 @@
 --subtitle: 400 20px/120% var(--font-family-2);
 --font-family-3: "Maven Pro", sans-serif;
 --text-md: 400 16px/140% var(--font-family-3);
---text-sm:400 14px/140% var(--font-family-3)
-*/
-
+--text-sm:400 14px/140% var(--font-family-3);
 }
 body{
+  background-image: url(../assets/backgounds/Background_Intro.png) ;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: top center ;
+
+  
   background-color: var(--gray-200);
-  }
-
-.container{
- max-width: 1366px;
+}
 
 
-}  

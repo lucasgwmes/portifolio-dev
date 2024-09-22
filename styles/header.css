@@ -1,6 +1,37 @@
 header{
-img{
-max-width: 1366px;
-height: 750px ;
+
 }
+.container{
+
+  text-align: center;
+  border: solid red 2px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 1040px;
+  height: 447px;
+  margin: auto;
+  margin-top: 15rem;
+  
+  .avatar{
+    padding-block: 11px 56px;
+    gap:
+  }
+.apresentação{
+    font: var(--subtitle);
+    color: var(--gray-500);
+    padding-bottom: 8px;
+  }
+  h1{
+    font: var(--title-lg);
+    color: var(--gray-600);
+    padding-bottom: 20px;
+  }
+  .txt{
+    font: var(--text-sm);
+    color: var(--gray-400);
+    padding-bottom: 80px;
+  }
+
+
 }
