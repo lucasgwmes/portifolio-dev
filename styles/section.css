@@ -1,0 +1,61 @@
+ #myWork{
+  max-width: 1040px;
+  margin: auto;
+  .intro{
+    padding-top: 255px;
+    text-align: center;
+    
+    p{
+      font: var(--subtitle);
+      color: var(--red);
+      padding-bottom: 8px;
+    }
+    h2{
+      font: var(--title-md);
+      color: var(--gray-600);
+      padding-bottom: 56px;
+    }
+  }
+  .thumbnails{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+  }
+  span {
+    text-align: center;
+    margin: auto;
+    width: 330px ;
+    height: 280px;
+    border: solid 1px var(--gray-300);
+    border-radius:  12px;
+    background-color: var(--gray-300);
+    div{
+      padding-block: 12px;
+      
+    }
+  }
+  h3{
+    display: flex;
+    justify-content: left;
+    padding-inline: 12px;
+    padding-block: 20px 8px;
+    font: var(--title-md);
+    color: var(--gray-600);
+    
+  }
+  span p{
+    font: var(--text-sm);
+    color: var(--gray-500);
+    padding-inline: 12px;
+    text-align: left;
+  }
+  
+  img{
+    width: 306px;
+    height: 156px;
+    border-radius: 8px;
+
+
+  }
+}
