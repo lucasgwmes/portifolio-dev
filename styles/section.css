@@ -1,6 +1,9 @@
  #myWork{
-  max-width: 1040px;
+  background-color: var(--gray-200);
+  max-width: 1366px;
   margin: auto;
+  padding-bottom: 144px;
+  padding-inline: 176px;
   .intro{
     padding-top: 255px;
     text-align: center;
@@ -49,6 +52,7 @@
     color: var(--gray-500);
     padding-inline: 12px;
     text-align: left;
+    
   }
   
   img{
@@ -57,5 +61,58 @@
     border-radius: 8px;
 
 
+  }
+}
+#myService{
+  background-color: var(--gray-100);
+  max-width: 1366px;
+  margin: auto;
+  padding-inline: 239px ;
+  padding-bottom: 120px;
+  .service{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+    
+  }
+
+  .intro-2{
+    padding-top: 88px;
+    text-align: center;
+    p{
+      font: var(--subtitle);
+      color: var(--red);
+      padding-bottom: 8px;
+    }
+    h2{
+      font: var(--title-md);
+      color: var(--gray-600);
+      padding-bottom: 56px;
+    }
+  }
+  span{
+    display: flex;
+    padding: 20px;
+    width: 280px;
+    height: 155px;
+    border: solid 2px var(--gray-200);
+    border-radius: 12px;
+    flex-direction: column;
+    p{
+      font: var(--text-sm);
+      color: var(--gray-500);
+      text-align: left;
+    } 
+    img{
+      width: 44px;
+      height: 33px;
+    }
+
+    h3{
+      display: flex;
+      justify-content: left;
+      font: var(--title-md);
+      color: var(--gray-600); 
+    
   }
 }
