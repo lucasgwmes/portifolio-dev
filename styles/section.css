@@ -85,7 +85,7 @@
       padding-bottom: 8px;
     }
     h2{
-      font: var(--title-md);
+      font: var(--title-sm);
       color: var(--gray-600);
       padding-bottom: 56px;
     }
@@ -98,20 +98,22 @@
     border: solid 2px var(--gray-200);
     border-radius: 12px;
     flex-direction: column;
-    p{
-      font: var(--text-sm);
-      color: var(--gray-500);
-      text-align: left;
-    } 
     img{
       width: 44px;
       height: 33px;
     }
+    p{
+      font: var(--text-sm);
+      color: var(--gray-500);
+      text-align: left;
+      padding-top: 8px;
+    } 
 
     h3{
+      padding-top: 20px;
       display: flex;
       justify-content: left;
-      font: var(--title-md);
+      font: var(--title-sm);
       color: var(--gray-600); 
     
   }
