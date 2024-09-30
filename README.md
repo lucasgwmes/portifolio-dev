@@ -34,4 +34,8 @@ Portifólio Dev, mostra o que aprendi ate hoje!
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/ypaVzEaqHUaUNMso9K3FOm/Portfolio-Dev-(Community)?node-id=0-1&node-type=canvas&t=IB7ed3LcHBDaJft3-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+<<<<<<< HEAD
 ## :memo: Licença
+=======
+## :memo: Licença
+>>>>>>> abb97eebc715e19c7c89ce7ade24b984ae6135a1
