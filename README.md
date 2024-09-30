@@ -1,5 +1,5 @@
 # projeto
-<h1 align="center">DevLinks </h1>
+<h1 align="center">Portfólio Dev </h1>
 
 <p align="center">
 progama exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -14,7 +14,7 @@ progama exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="projeto devLinks" src="./" width="100%">
+  <img alt="projeto Portfólio dev" src="./assets/Cover.png" width="100%">
 </p>
 
 ## 🚀Portfolio Dev!
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## 💻 Projeto
-Portifolio Dev, mostra o que aprendi ate hoje!
+Portifólio Dev, mostra o que aprendi ate hoje!
 
 - [Visite o projeto online]([https://lucasgwmes.github.io/portifolio-dev/)
 
