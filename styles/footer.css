@@ -62,7 +62,7 @@ footer{
   }
   
   button:hover{
-    border: 1.5px solid var(--gray-400);
+    border: 1.5px solid var(--blue);
     border-radius: 12px;
     width: 400px;
     height: 62px;
