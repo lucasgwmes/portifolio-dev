@@ -1,0 +1,71 @@
+footer{
+  max-width: 1366px;
+  height: 787px;
+  background-image: url(../assets/backgounds/Background_Contacts.png) ;
+  background-position: center;
+  background-size: 1366px 787px;
+  background-repeat: no-repeat;
+  margin: auto;
+
+  .intro-3{
+    padding-top: 128px;
+    gap: 8px;
+    text-align: center;
+
+    .cont{
+      font: var(--subtitle);
+      color: var(--purple);
+      
+    }
+    h2{
+      font: var(--title-md);
+      color: var(--gray-600);
+    }
+    .divu{
+      font: var(--text-md);
+      color: var(--gray-500);
+    }
+  }
+  .social-links{
+    padding-top: 48px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+    a{
+      text-decoration: none;
+      color: var(--gray-500);
+      font: var(--text-md);
+
+    }
+    button{
+      display: flex;
+      border: solid 1px var(--gray-300);
+      border-radius: 8px;
+      background-color: var(--gray-300);
+      width: 400px;
+      height: 62px;
+      padding-inline: 12px;
+      justify-content: space-between;
+      align-items: center;
+      
+      
+      
+      
+    }
+    div{
+      gap: 12px;
+      display: flex;
+      align-items: center;  
+    }
+    
+  }
+  
+  button:hover{
+    border: 1.5px solid var(--gray-400);
+    border-radius: 12px;
+    width: 400px;
+    height: 62px;
+          
+  }
+  }
